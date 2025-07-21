@@ -1,0 +1,13 @@
+<config>
+    <loginform>
+        <logintitle>Bejelentkezés</logintitle>
+        <loginlabel>Felhasználó</loginlabel>
+        <passwordlabel>Jelszó</passwordlabel>
+        <loginbuttonlabel>Belépés</loginbuttonlabel>
+    </loginform>
+    <navbar>
+        <homelabel>Otthon</homelabel>
+        <contactlabel>Kapcsolat</contactlabel>
+        <adminloginlabel>Belépés adminként</adminloginlabel>
+    </navbar>
+</config>

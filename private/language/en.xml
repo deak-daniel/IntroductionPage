@@ -1,0 +1,13 @@
+<config>
+    <loginform>
+        <logintitle>Login</logintitle>
+        <loginlabel>Username</loginlabel>
+        <passwordlabel>Password</passwordlabel>
+        <loginbuttonlabel>Login</loginbuttonlabel>
+    </loginform>
+    <navbar>
+        <homelabel>Home</homelabel>
+        <contactlabel>Contact</contactlabel>
+        <adminloginlabel>Admin login</adminloginlabel>
+    </navbar>
+</config>
