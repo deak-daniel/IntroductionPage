@@ -6,9 +6,15 @@
         $data = $database->get_text_in_language($_SESSION['lang']);
     }
 ?>
+<style>
+    
+</style>
 <section>
     <h4>
-        <?php global $data; echo $data['page_title']; ?>
+        <?php 
+        global $data; 
+        echo $data['page_title']; 
+        ?>
     </h4>
     <p>
         <?php 

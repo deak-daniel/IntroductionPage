@@ -10,4 +10,10 @@
         <contactlabel>Kapcsolat</contactlabel>
         <adminloginlabel>Belépés adminként</adminloginlabel>
     </navbar>
+    <contact>
+        <title>Lépj kapcsolatba velem</title>
+        <emaillabel>E-mail cím</emaillabel>
+        <messagelabel>Üzenet</messagelabel>
+        <sendbuttonlabel>Küldés</sendbuttonlabel>
+    </contact>
 </config>

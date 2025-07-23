@@ -10,4 +10,10 @@
         <contactlabel>Contact</contactlabel>
         <adminloginlabel>Admin login</adminloginlabel>
     </navbar>
+    <contact>
+        <title>Contact me</title>
+        <emaillabel>E-mail address</emaillabel>
+        <messagelabel>Message</messagelabel>
+        <sendbuttonlabel>Send</sendbuttonlabel>
+    </contact>
 </config>
